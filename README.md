@@ -32,8 +32,15 @@ après chaque commande git.
 # Partie du fichier à mettre à jour
 
 Auteurs :
+<<<<<<< HEAD
 
 - Fabien Rozar
 - Pauline Moncoiffé-Brisset
 - Jerry Razafindraibe
 - JAVEL Camille Marcel
+=======
+ - Fabien Rozar
+ - Pauline Moncoiffé-Brisset
+ - Jerry Razafindraibe
+ - RAKOTONAIVO Aina Raphael
+>>>>>>> 15c3e9fbfab47e6fd7285dd20d81a6556b4d5783
